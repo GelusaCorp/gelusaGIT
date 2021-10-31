@@ -17,3 +17,14 @@ Se recomienda crear una organizacion que sea la propietaria del respositorio. A 
 ## Creacion de Fork
 
 Para crear un fork debes iniciar sesion en Githud y luego ingresar a la landing page del proyecto del que quieras sacar tu Fork.
+
+## Como trabajar con 2 o mas remotos
+
+Listar remotos
+`git remote -v`
+
+Agregar remotos
+`git remote add gelusagit git@githud:gelusacorp/gelusaGIT.git`
+
+Eliminar remotos
+`git remote remove gelusagit`
