@@ -28,3 +28,10 @@ Agregar remotos
 
 Eliminar remotos
 `git remote remove gelusagit`
+
+## Creando etiquetas
+
+Es necesario entender que las etiquetas o releases, solo deben ser creadas a partir de la rama master como buena practica.
+
+Para entender como llamar o categorizar te recomiendo un articulo en este blog
+https://app.ed.team/blog/como-se-deciden-las-versiones-del-software
