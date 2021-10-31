@@ -13,3 +13,7 @@ Se recomienda crear una organizacion que sea la propietaria del respositorio. A 
 3. Click en Organizacion
 4. Click en Nueva Organizacion
 5. Elegir plan y llenar datos
+
+## Creacion de Fork
+
+Para crear un fork debes iniciar sesion en Githud y luego ingresar a la landing page del proyecto del que quieras sacar tu Fork.
